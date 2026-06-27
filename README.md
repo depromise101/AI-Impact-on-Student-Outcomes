@@ -27,8 +27,7 @@ Whether you're a researcher, educator, data scientist, or policymaker, this data
 # Dashboard screenshots
 
 
+# Key insights
 
-Key insights
 
-
-Recommendations
+# Recommendations
