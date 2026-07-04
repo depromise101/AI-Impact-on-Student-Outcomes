@@ -58,7 +58,7 @@ https://public.tableau.com/views/ai-impact-on-student-outcomes/Dashboard1?:langu
 # Author
 Promise Okoro
 
-Data Analyst | SQL | Excel | Python | Tableau | Power BI
+Data Professional
 
 GitHub: (https://github.com/depromise101)
 
