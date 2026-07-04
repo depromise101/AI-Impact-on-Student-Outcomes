@@ -33,7 +33,7 @@ Whether you're a researcher, educator, data scientist, or policymaker, this data
 
 # Dashboard screenshots
 👉 View dashboard preview pdf
-## file:///C:/Users/DEPROMISE501/Downloads/AI%20Impact%20on%20Student%20Learning%20Outcomes%20Dashboard%20(1).pdf
+file:///C:/Users/DEPROMISE501/Downloads/AI%20Impact%20on%20Student%20Learning%20Outcomes%20Dashboard%20(1).pdf
 
 👉 View the live dashboard on Tableau Public.
 https://public.tableau.com/views/ai-impact-on-student-outcomes/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
