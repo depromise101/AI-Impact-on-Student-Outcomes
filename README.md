@@ -3,7 +3,14 @@
 # Understanding the Impact of AI Usage on Academic Performance, Skill Retention &amp; Student Well-Being
 
 # Project overview
-As Generative AI tools like ChatGPT, Copilot, and Gemini become deeply embedded in academic life, understanding their true impact on students has never been more critical. This dataset captures the impact of Generative AI tools on students across various academic disciplines. It tracks how students use AI tools, their study habits, academic performance before and after a semester, and their mental well-being __ giving a 360° view of AI's role in modern education.
+A Tableau dashboard that analyzes how Generative AI usage influences students' academic performance, skill retention, AI dependency, and well-being. The dashboard enables stakeholders to identify at-risk students, evaluate learning patterns, and make evidence-based educational decisions.
+
+# Business Problem
+As Generative AI tools like ChatGPT, Copilot, and Gemini become deeply embedded in academic life, understanding their true impact on students has never been more critical. This project answers questions such as:
+- Does increased AI usage improve GPA?
+- Does heavy AI usage increase AI dependency?
+- Which students are most at risk?
+- How does prompt engineering skill affect knowledge retention?
 
 Whether you're a researcher, educator, data scientist, or policymaker, this dataset offers fertile ground for exploring the benefits and risks of AI adoption in higher education.
 
@@ -25,6 +32,10 @@ Whether you're a researcher, educator, data scientist, or policymaker, this data
 
 
 # Dashboard screenshots
+👉 View the live dashboard on Tableau Public.
+https://public.tableau.com/views/ai-impact-on-student-outcomes/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 
 
 # Key insights
