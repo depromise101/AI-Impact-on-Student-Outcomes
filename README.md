@@ -26,7 +26,7 @@ Whether you're a researcher, educator, data scientist, or policymaker, this data
 
 # Tools used
 - Tableau Public:	Dashboard design and interactive visualization
-- Microsoft Excel:	Data cleaning and preparation
+- Jupyter Notebook:	Data cleaning and preparation
 - Calculated Fields:	KPI cards creation and policy recommendation logic
 - GitHub:	Project documentation and version control
 
