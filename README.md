@@ -33,32 +33,32 @@ Whether you're a researcher, educator, data scientist, or policymaker, this data
 
 # Dashboard screenshots
 👉 View dashboard preview pdf
-file:///C:/Users/DEPROMISE501/Downloads/AI%20Impact%20on%20Student%20Learning%20Outcomes%20Dashboard%20(1).pdf
+https://public.tableau.com/views/ai-impact-on-student-outcomes/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 👉 View the live dashboard on Tableau Public.
 https://public.tableau.com/views/ai-impact-on-student-outcomes/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 # Key insights
-- Heavy AI usage alone does not necessarily predict poor academic performance.
-- AI dependency has a stronger relationship with reduced skill retention than usage frequency alone.
-- Students with advanced prompt engineering skills generally demonstrate higher skill retention.
-- Burnout risk varies across student groups and should be monitored alongside AI dependency.
-- Frequent AI users can maintain strong academic outcomes when AI is used effectively.
+- Heavy AI usage by itself doesn’t automatically lead to poor grades — many frequent users still maintain good academic performance.
+- However, AI dependency appears more dangerous than raw usage hours. Students who feel overly reliant on AI tend to show noticeably lower skill retention.
+- Strong prompt engineering skills are clearly associated with better knowledge retention — this suggests how students use AI matters more than how much.
+- Burnout risk increases with higher AI dependency, highlighting the need to monitor student well-being alongside academic metrics.
+- The data shows that balanced, intentional AI use can be beneficial, while passive over-reliance often backfires.
 
 
 # Recommendations
-- Introduce retrieval-based learning for students with high AI dependency and low skill retention.
-- Provide targeted wellness support for students classified as high burnout risk.
-- Encourage balanced AI use rather than limiting AI usage based on hours alone.
-- Monitor AI dependency alongside academic performance to identify students who may require intervention.
-- Distinguish frequent AI use from unhealthy AI dependence when developing institutional policies.
+- Encourage "retrieval practice" and active learning techniques for students showing high AI dependency and low retention.
+- Institutions should provide wellness check-ins for students in the high burnout risk group.
+- Instead of blanket restrictions on AI hours, focus on teaching responsible and effective AI usage.
+- Prompt engineering workshops could be a high-impact, low-cost intervention to improve learning outcomes.
+- Educational policies should differentiate between productive AI users and those becoming overly dependent.
 
 
 # Author
 Promise Okoro
 
-Data Professional
+Data Analyst
 
 GitHub: (https://github.com/depromise101)
 
